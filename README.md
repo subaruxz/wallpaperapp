@@ -1,2 +1,0 @@
-# wallpaperapp
-wallpaper app
